@@ -1,4 +1,4 @@
 {
   "extends": ["stylelint-config-standard", "stylelint-config-prettier"],
-  "ignoreFiles": ["**/dist/**", "**/coverage/**", "**/node_modules/**"]
+  "ignoreFiles": ["**/.next/**", "**/coverage/**", "**/node_modules/**"]
 }
